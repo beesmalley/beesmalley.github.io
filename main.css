@@ -38,6 +38,9 @@ body{
   padding-top: 10px;
   width: 200px;
 }
+#linktable{
+  padding: 5px;
+}
 .blurb{
    color:aliceblue;
    margin-left: 10px;
