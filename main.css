@@ -30,6 +30,10 @@ body{
     float:left;
     overflow: auto;
 }
+.byebye{
+  list-style: none;
+  text-indent: 15px;
+}
 
 #about{
   width:70%;
