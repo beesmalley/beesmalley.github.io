@@ -41,6 +41,7 @@ body{
 }
 #linktable{
   padding: 5px;
+  width:100%;
 }
 .blurb{
    color:aliceblue;
